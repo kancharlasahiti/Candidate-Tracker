@@ -1,2 +1,12 @@
 # Candidate-Tracker
 A synthetic HR dataset and dashboard built in Excel
+
+This project contains a synthetic HR dataset and an Excel dashboard to track candidate interview statuses.
+
+## Features
+- Status dropdowns: Scheduled, Completed, Offered, In-review, No-show, Rejected
+- Dashboard with COUNTIF formulas and charts
+- Feedback column for qualitative insights
+
+## Dataset Info
+All data is randomly generated and does not represent real individuals. Created for educational and demonstration purposes.
