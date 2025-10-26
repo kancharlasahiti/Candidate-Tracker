@@ -1,4 +1,4 @@
-# Candidate-Tracker[ Candidate Tracker](https://docs.google.com/spreadsheets/d/1bCRyOttY_VErPv6ZZc6PUdECmq_J_-2siG32pM6eIG4/edit?usp=sharing)
+[ Candidate Tracker](https://docs.google.com/spreadsheets/d/1bCRyOttY_VErPv6ZZc6PUdECmq_J_-2siG32pM6eIG4/edit?usp=sharing)
 A synthetic HR dataset and dashboard built in Excel
 
 This project contains a synthetic HR dataset and an Excel dashboard to track candidate interview statuses.
